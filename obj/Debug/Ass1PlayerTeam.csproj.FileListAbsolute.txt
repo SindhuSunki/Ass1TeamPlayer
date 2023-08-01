@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\bin\Debug\Ass1PlayerTeam.exe.config
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\bin\Debug\Ass1PlayerTeam.exe
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\bin\Debug\Ass1PlayerTeam.pdb
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.exe
+D:\Simplilearn classes\Ass1PlayerTeam\Ass1PlayerTeam\obj\Debug\Ass1PlayerTeam.pdb
